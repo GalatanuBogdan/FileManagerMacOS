@@ -23,4 +23,4 @@ The App requires a Mac running a newer version of macOS with M2 processor suppor
 
 ### License
 
-The App is licensed under the [License Name](https://github.com/GalatanuBogdan/FileManagerMacOS/blob/main/LICENSE).
+The App is licensed under the [MIT License](https://github.com/GalatanuBogdan/FileManagerMacOS/blob/main/LICENSE).
